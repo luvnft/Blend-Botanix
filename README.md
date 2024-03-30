@@ -44,16 +44,38 @@ Interoperability is a main focus in Botanix ecosystem, to ensure that tokenized 
 
 Our team deserve a pat on the back! We are the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
 
-# Blend's Market Strategy
+# Blend's Market Potential Impact
 
-### Dynamic API Subscription Business Model
-
-
-
-### Tackling Large Market Size
+Blend is building up the early Botanix ecosystem as we know that our next generation digital identity NFT Passport have broad application on different sector (such as blockchain gamimg, social application, NFT-extend application, etc) in the Botanix blockchain. Our team is tackling a large market size in the space and speculate a bright future in powering different DApp projects in the Botanix ecosystem. The launch of Blend will redefine how Web3.0 DApps will be designed and developed on Botanix. We will continue making our business model simple, which we will provide dynamic API subscription for projects, starting from only as low as $0.05 per digital identity. What we consider Blend a success? Our team wanted to successfully launch Blend as a plug-and-play solution on Botanix and get ready for mass adoption. This is also a focus which we are focusing on right now!
 
 ### Blend Go-To-Market Roadmap
+
+Stage 1:
+- Research & Experiment
+- Engine Setup & Testing
+- NFT Passport Implementations
+- Prototype Building
+
+Stage 2: (WE ARE HERE RIGHT NOW)
+- Hackathon Submission
+- Community Feedback
+- Talent Recruiting
+- Go-to-market Action
+
+Stage 3:
+- Model Improvisation (V2)
+- API Distribution System
+- Documentation
+- Beta Launch
+
+Stage 4:
+- Model Improvisation (V3)
+- Engine Optimization
+- Botanix Mainnet Preparation
+- Public Launch
 
 ### Market Traction
 
 # Experience Blend
+
+
