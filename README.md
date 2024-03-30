@@ -82,25 +82,25 @@ Blend is building up the early Botanix ecosystem as we know that our next genera
 
 ![image 32](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/ad0ce400-65de-4c11-ad71-0face2aa4861)
 
-Stage 1:
+**✅ Stage 1:**
 - Research & Experiment
 - Engine Setup & Testing
 - NFT Passport Implementations
 - Prototype Building
 
-Stage 2: (WE ARE HERE RIGHT NOW)
+**✅ Stage 2: (WE ARE HERE RIGHT NOW)**
 - Hackathon Submission
 - Community Feedback
 - Talent Recruiting
 - Go-to-market Action
 
-Stage 3:
+**Stage 3:**
 - Model Improvisation (V2)
 - API Distribution System
 - Documentation
 - Beta Launch
 
-Stage 4:
+**Stage 4: (Approx Q4 2024)**
 - Model Improvisation (V3)
 - Engine Optimization
 - Botanix Mainnet Preparation
