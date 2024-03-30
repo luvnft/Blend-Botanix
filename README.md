@@ -26,7 +26,7 @@ Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based 
 
 ### Blend's Advanced Deep Learning AI Core
 
-![image 26](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/8104abc1-c1f5-42c2-bdd3-ec2b0726cd28)
+![image 26 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/8053b6b6-6eb6-43f2-9bef-993caf7d70dc)
 
 Blend's digital identity creation ability is powered by our university research team's own advanced AI core, utilizing the latest deep learning 3D reconstruction technology. It is able to take up only a single selfie from the user as input and directly generate an ultra-realistic 3D digital copy of the user. The AI core is hosted and running on the cloud, being the heart of the whole NFT Passport Engine, and is distributed as an API together with the Blend NFT Passport Engine for Botanix developers to easily integrate into any DApps project on Botanix.
 
