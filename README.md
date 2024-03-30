@@ -32,11 +32,13 @@ We do not want to limit the NFT Passport engine to only Web-based DApps on Botan
 
 # Why Blend?
 
-### It is cheaper and faster
+### Blend is cheaper and faster
 
-### It is cross-platform
+Blend able to achieve 10K times cheaper when creating a single digital identity and mint into an NFT Passport on Botanix with super low gas fee benefit. This is compared to expensive Web2.0 product which can achieve digital identity creation ability such as Apple Vision Pro and Meta Quest Pro (future release). Plus, Blend only need 1 minute to create a single digital identity NFT Passport, which is super fast. The advantages of cost and speed of the engine allow Blend to scale and accessible for everyone in the Botanix ecosystem.
 
-### It is the first on Botanix
+### Blend is cross-platform
+
+### Blend is the first on Botanix
 
 # Blend's Market Strategy
 
