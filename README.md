@@ -1,1 +1,13 @@
-# Blend-Botanix
+# What is Blend and how it works?
+
+Blend is the first NFT Passport Engine on Botanix for Web3.0-based digital identity creation, management, and utilization in the ecosystem. The difference from the legacy digital identity representation on Web 3.0 is that Blend directly creates a complete and ultra-realistic virtual version of the Botanix user (just like a digital copy) and embeds all the digital identity data into an NFT-based passport. This means that each of the users on Botanix now has a 3D digital representation of themselves fully on the Botanix blockchain, managed in a decentralized way with full ownership via NFT technology. The digital identity creation process is also designed to be user-friendly with a low entry barrier, which just requires the user to upload a simple selfie of themselves, and Blend’s advanced deep learning AI core will perform the digital identity reconstruction fully on the cloud. Users just have to finally mint their digital identity into an NFT passport using our protocol, and then they are ready to utilize it around different DApp projects in the ecosystem. Users just have to connect their wallet containing the NFT Passport to the DApp, grant access for the DApp to use the Passport, and the DApp will fetch any related digital identity info from the Passport’s metadata.
+
+### Some Interesting Use Cases with Blend (not limited to):
+
+1. Imagine a blockchain game in which you can turn yourself into the game character and interact inside the metaverse. With NFT Passport, which has your complete face data embedded, you can easily achieve this. A blockchain game application can simply fetch your digital identity via the NFT Passport metadata and do the rendering work.
+
+2. Imagine a metaverse-concept social application. Users can mint an ERC-5773-based NFT passport as their digital identity. This is because ERC-5773 can be used to permanently attach different formats of assets to the NFT passport. Users can not only store their own 3D data of their digital identity, but they can also bind their social media posts (images, texts, videos, etc.) to their NFT passport and carry them around.
+ 
+3. Imagine the user’s NFT Passport is a profile in Web 3.0. By utilizing dynamic NFT implementations such as composable, multi-assets, and emotable, users can have a profile that is compatible with different DApps projects, achieving the concept of DApp-Agnostic. With these characteristics, developers can introduce more creative applications with the NFT Passport.
+ 
+4. ZK-based identity applications are very popular in the blockchain space, while using user face data as an identity proof is relatively new to these kinds of applications. NFT Passport can achieve it as all the identity data of one user is permanently embedded into the NFT Passport.
