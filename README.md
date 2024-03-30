@@ -32,6 +32,8 @@ Blend's digital identity creation ability is powered by our university research 
 
 ### Dynamic NFT Passport Implementation with RMRK NFT 2.0 Standard
 
+![image 37](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/7c1e8fd4-5e0a-49c9-a30c-6eadd28a94cb)
+
 Blend is the first NFT Passport engine and digital identity protocol to implement the RMRK NFT 2.0 standard, introducing dynamic features to the NFT Passport and extending its possible use cases. NFT Passport has now achieved storing complete user digital identity, binding multi-format assets or arbitrary data permanently, attaching inventory catalogs for equippability and composability, as well as allowing users on Botanix to react with emojis to it. 
 
 ### Achieve Self-Sovereign State via Blockchain-Based Encryption Mechanism 
