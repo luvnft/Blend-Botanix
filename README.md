@@ -34,11 +34,15 @@ We do not want to limit the NFT Passport engine to only Web-based DApps on Botan
 
 ### Blend is cheaper and faster
 
-Blend able to achieve 10K times cheaper when creating a single digital identity and mint into an NFT Passport on Botanix with super low gas fee benefit. This is compared to expensive Web2.0 product which can achieve digital identity creation ability such as Apple Vision Pro and Meta Quest Pro (future release). Plus, Blend only need 1 minute to create a single digital identity NFT Passport, which is super fast. The advantages of cost and speed of the engine allow Blend to scale and accessible for everyone in the Botanix ecosystem.
+Blend able to achieve 10K times cheaper when creating a single digital identity and mint into an NFT Passport on Botanix with super low gas fee benefit. This is compared to expensive Web2.0 product which can achieve digital identity creation ability such as Apple Vision Pro and Meta Quest Pro (future release). Plus, Blend only need 1 minute to create a single digital identity NFT Passport, which is super fast. The advantages of cost and speed of the engine allow Blend to scale and accessible for everyone in the Botanix ecosystem, making 3D digital identity possible in blockchain application.
 
 ### Blend is cross-platform
 
+Interoperability is a main focus in Botanix ecosystem, to ensure that tokenized assets can be travel across different project and still being compatible for each other, achieveing the concept which our team is focusing on - DApp Agnostic. Blend's NFT Passport able to achieve cross-platform (or cross project) ability which the digital identity data can be carry across different DApps in Botanix and able to utilise the digital identity in the application. Compared to Web2.0 product, which the digital identity created on one platform is not compatible with another one, making Blend stands out in the blockchain sector, fully leveraging Botanix technology. 
+
 ### Blend is the first on Botanix
+
+Our team is the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
 
 # Blend's Market Strategy
 
