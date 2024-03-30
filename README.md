@@ -42,11 +42,13 @@ Interoperability is a main focus in Botanix ecosystem, to ensure that tokenized 
 
 ### Blend is the first on Botanix
 
-Our team is the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
+Our team deserve a pat on the back! We are the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
 
 # Blend's Market Strategy
 
 ### Dynamic API Subscription Business Model
+
+
 
 ### Tackling Large Market Size
 
