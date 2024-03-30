@@ -108,8 +108,13 @@ Stage 4:
 
 ### Market Traction
 
+We had perform an alpha testing during the hackathon period to gain market traction and feedback from the community. We had gained lots of positive feedbacks and comments for improvements, as well as requesting early waitlist slot from our team. 
+
 ![image 31](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/e1ff2323-5b2f-43ca-9836-ec6df5f64059)
 
 # Experience Blend
 
+Our team had built two demo to showcase Blend ability on web-based and mobile-based DApps. Create your digital identity and own your NFT Passport today!
+
+![image 38 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/55afdb65-d1b7-4b14-b6c7-0f0ba28024fb)
 
