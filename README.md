@@ -6,13 +6,13 @@
 
 <br>
 
-# What is Blend and how it works?
+# 🤷‍♂️ What is Blend and how it works?
 
 Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based digital identity creation, management, and utilization in the ecosystem. The difference from the legacy digital identity representation on Web 3.0 is that Blend directly creates a complete and ultra-realistic virtual version of the Botanix user (just like a digital copy) and embeds all the digital identity data into an NFT-based passport. This means that each of the users on Botanix now has a 3D digital representation of themselves fully on the Botanix blockchain, managed in a decentralized way with full ownership via NFT technology. The digital identity creation process is also designed to be user-friendly with a low entry barrier, which just requires the user to upload a simple selfie of themselves, and Blend’s advanced deep learning AI core will perform the digital identity reconstruction fully on the cloud. Users just have to finally mint their digital identity into an NFT passport using our protocol, and then they are ready to utilize it around different DApp projects in the ecosystem. Users just have to connect their wallet containing the NFT Passport to the DApp, grant access for the DApp to use the Passport, and the DApp will fetch any related digital identity info from the Passport’s metadata:
 
 ![Group 15 (2)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/f98018d3-8287-4356-b9b1-ba2aefc5f9bb)
 
-### Some Interesting Use Cases with Blend (not limited to):
+### 🕹️ Some Interesting Use Cases with Blend (not limited to):
 
 1. Imagine a blockchain game in which you can turn yourself into the game character and interact inside the metaverse. With NFT Passport, which has your complete face data embedded, you can easily achieve this. A blockchain game application can simply fetch your digital identity via the NFT Passport metadata and do the rendering work.
 
@@ -22,7 +22,7 @@ Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based 
  
 4. ZK-based identity applications are very popular in the blockchain space, while using user face data as an identity proof is relatively new to these kinds of applications. NFT Passport can achieve it as all the identity data of one user is permanently embedded into the NFT Passport.
 
-# Key Features:
+# 🗝️ Key Features:
 
 ### Blend's Advanced Deep Learning AI Core
 
@@ -48,7 +48,7 @@ Digital identity data is considered sensitive data and should be stored in a con
 
 We do not want to limit the NFT Passport engine to only Web-based DApps on Botanix, but we should also open up the sector of mobile-based DApps, which can also now utilize NFT Passport and explore more digital identity applications. Hence, Blend is also specially designed and built to allow full mobile integration on both Android and iOS. Everything done in web-based DApps on Botanix can be easily recreated for mobile users now. Building up the foundation of the future Botanix Mobile Stack (BMS).
 
-# Why Blend?
+# ⭐ Why Blend?
 
 ### Blend is cheaper and faster
 
@@ -68,11 +68,11 @@ In the Web2.0 era, tech giants are the one to store our digital identity and acc
 
 Interoperability is a main focus in the Botanix ecosystem to ensure that tokenized assets can travel across different projects while still being compatible with each other, achieving the concept that our team is focusing on: DApp Agnostic. Blend's NFT Passport is able to achieve cross-platform (or cross-project) ability, which means that the digital identity data can be carried across different DApps in Botanix and utilized in the application. Compared to the Web2.0 product, where the digital identity created on one platform is not compatible with another one (for example, digital identity on Apple's product cant be used on Meta's product), Blend stands out in the blockchain sector, fully leveraging Botanix technology. 
 
-### Blend is the first on Botanix
+### Blend is the first on Botanix 🎉
 
-Our team deserve a pat on the back! We are the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
+Our team deserve a pat on the back 🎊! We are the first to introduce advanced AI backed digital identity engine and protocol on Botanix, introducing the concept of NFT Passport on Botanix.
 
-# Blend's Market Potential Impact
+# 💪 Blend's Market Potential Impact
 
 ![Frame 20](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/b0060012-4c21-4bc4-9182-2afd5306a73a)
 
@@ -106,15 +106,15 @@ Stage 4:
 - Botanix Mainnet Preparation
 - Public Launch
 
-### Market Traction
+### 👀 Market Traction
 
 We had perform an alpha testing during the hackathon period to gain market traction and feedback from the community. We had gained lots of positive feedbacks and comments for improvements, as well as requesting early waitlist slot from our team. 
 
 ![image 31](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/e1ff2323-5b2f-43ca-9836-ec6df5f64059)
 
-# Experience Blend
+# 👋 Hey, come and experience Blend on Botanix!
 
-Our team had built two demo to showcase Blend ability on web-based and mobile-based DApps. Create your digital identity and own your NFT Passport today!
+Our team had built two demo to showcase Blend ability on web-based and mobile-based DApps on Botanix. Create your digital identity and own your first NFT Passport today!
 
 ![image 38 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/55afdb65-d1b7-4b14-b6c7-0f0ba28024fb)
 
