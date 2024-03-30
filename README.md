@@ -1,3 +1,11 @@
+<div align="center">
+    <img src="https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/b7155381-c98e-4020-9924-6ddf357787b3" width=100>
+    <h1>Blend</h1>
+    <strong>The First NFT Passport Engine & Protocol for Web3.0 Digital Identity on Botanix</strong>  
+</div>
+
+<br>
+
 # What is Blend and how it works?
 
 ![Group 15 (2)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/f98018d3-8287-4356-b9b1-ba2aefc5f9bb)
@@ -45,6 +53,12 @@ We do not want to limit the NFT Passport engine to only Web-based DApps on Botan
 ![image 29](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/e8721048-4234-4be9-b509-ab4c7a86dcb8)
 
 Blend is able to achieve 10K times cheaper when creating a single digital identity and minting it into an NFT passport on Botanix with a super low gas fee benefit. This is compared to expensive Web2.0 products that can achieve digital identity creation abilities, such as Apple Vision Pro and Meta Quest Pro (future releases). Plus, Blend only needs 1 minute to create a single digital identity, the NFT Passport, which is super fast. The advantages of the cost and speed of the engine allow Blend to scale and be accessible to everyone in the Botanix ecosystem, making 3D digital identity possible in blockchain applications.
+
+### Blend gives you full ownership on Botanix.
+
+![image 36](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/8ffd15f3-f0b5-4847-b6db-7c0954c2c292)
+
+In the Web2.0 era, tech giants are the one to store our digital identity and access to all those sensitive data, which is a major concern related to data privacy and ethics. Now, Blend in the Web3.0 era able to store the digital identity as an NFT (Non-Fungible Token) on Botanix, while having all the data packed and hosted on a decentralised storage like IPFS, giving full ownership to the owner of the digital identity NFT Passport. We control our own data!
 
 ### Blend is cross-platform
 
