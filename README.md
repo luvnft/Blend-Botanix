@@ -120,3 +120,7 @@ Our team had built two demo to showcase Blend ability on web-based and mobile-ba
 
 ![image 38 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/55afdb65-d1b7-4b14-b6c7-0f0ba28024fb)
 
+### Disclosure
+
+Our team had begun our R&D and experimented with different EVM-based chains at an early stage. This is the first time our team has come across Botanix, which is the first EVM-equivalent Bitcoin layer in the space. With the chance of SpiderHack 2024 and also the mature progress and achievements on the Blend engine until now, our team decided to focus and fully launch this technology and tool on this rapidly growing Botanix ecosystem (considering all the benefits of the blockchain technology and its future potential impact), and we are working very hard to make this project accessible to everyone very soon and hope that Blend will introduce a paradigm shift in the DApp design and development sector.
+
