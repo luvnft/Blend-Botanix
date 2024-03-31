@@ -8,6 +8,8 @@
 
 # 🤷‍♂️ What is Blend and how it works?
 
+> Take a selfie ➡️ Generate your identity ➡️ Mint into NFT ➡️ Use it on Botanix
+
 Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based digital identity creation, management, and utilization in the ecosystem. The difference from the legacy digital identity representation on Web 3.0 is that Blend directly creates a complete and ultra-realistic virtual version of the Botanix user (just like a digital copy) and embeds all the digital identity data into an NFT-based passport. This means that each of the users on Botanix now has a 3D digital representation of themselves fully on the Botanix blockchain, managed in a decentralized way with full ownership via NFT technology. The digital identity creation process is also designed to be user-friendly with a low entry barrier, which just requires the user to upload a simple selfie of themselves, and Blend’s advanced deep learning AI core will perform the digital identity reconstruction fully on the cloud. Users just have to finally mint their digital identity into an NFT passport using our protocol, and then they are ready to utilize it around different DApp projects in the ecosystem. Users just have to connect their wallet containing the NFT Passport to the DApp, grant access for the DApp to use the Passport, and the DApp will fetch any related digital identity info from the Passport’s metadata:
 
 ![Group 15 (2)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/f98018d3-8287-4356-b9b1-ba2aefc5f9bb)
@@ -24,7 +26,7 @@ Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based 
 
 # 🗝️ Key Features:
 
-### Blend's Advanced Deep Learning AI Core
+### Blend's Advanced Deep Learning AI Core for Digital Identity Reconstruction
 
 ![image 26 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/8053b6b6-6eb6-43f2-9bef-993caf7d70dc)
 
