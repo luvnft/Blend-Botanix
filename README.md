@@ -26,25 +26,25 @@ Blend is the first NFT Passport Engine and protocol on Botanix for Web3.0-based 
 
 # 🗝️ Key Features:
 
-### Blend's Advanced Deep Learning AI Core for Digital Identity Reconstruction
+### 1️⃣ Blend's Advanced Deep Learning AI Core for Digital Identity Reconstruction
 
 ![image 26 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/8053b6b6-6eb6-43f2-9bef-993caf7d70dc)
 
 Blend's digital identity creation ability is powered by our university research team's own advanced AI core, utilizing the latest deep learning 3D reconstruction technology. It is able to take up only a single selfie from the user as input and directly generate an ultra-realistic 3D digital copy of the user. The AI core is hosted and running on the cloud, being the heart of the whole NFT Passport Engine, and is distributed as an API together with the Blend NFT Passport Engine for Botanix developers to easily integrate into any DApps project on Botanix.
 
-### Dynamic NFT Passport Implementation with RMRK NFT 2.0 Standard
+### 2️⃣ Dynamic NFT Passport Implementation with RMRK NFT 2.0 Standard
 
 ![image 37](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/7c1e8fd4-5e0a-49c9-a30c-6eadd28a94cb)
 
 Blend is the first NFT Passport engine and digital identity protocol to implement the RMRK NFT 2.0 standard, introducing dynamic features to the NFT Passport and extending its possible use cases. NFT Passport has now achieved storing complete user digital identity, binding multi-format assets or arbitrary data permanently, attaching inventory catalogs for equippability and composability, as well as allowing users on Botanix to react with emojis to it. 
 
-### Achieve Self-Sovereign State via Blockchain-Based Encryption Mechanism 
+### 3️⃣ Achieve Self-Sovereign State via Blockchain-Based Encryption Mechanism 
 
 ![image 27](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/205c7812-20c3-42db-8370-62fb57cd53e9)
 
 Digital identity data is considered sensitive data and should be stored in a confidential way when making it fully on-chain on the public Botanix network. Blend solved this by leveraging blockchain-based encryption mechanisms by encrypting the 3D data of the user before minting it into an NFT; hence, even the NFT Passport is accessible on chain, but only the owner of the NFT Passport has access control to decrypt the digital identity data, having maximum ownership. The user is also able to grant access to a Blend-powered DApp so that the application can utilize the digital identity data when the user connects their wallet. 
 
-### Multiplatform Integration Ability (for both Web and Mobile-based DApps)
+### 4️⃣ Multiplatform Integration Ability (for both Web and Mobile-based DApps)
 
 ![Group 16 (1)](https://github.com/Zhixuan0318/Blend-Botanix/assets/69501009/ad8aaf6a-fac8-4638-9d7f-f9782fa00040)
 
